@@ -3,7 +3,7 @@ import os
 
 os.system('cls')
 
-print("Välkomeklartt projektsn till Gissa Talet. Spelet går ut på att du ska gisa ett tal mellan 1-100 under sju försök")
+print("Välkommen till Gissa Talet. Spelet går ut på att du ska gisa ett tal mellan 1-100 under sju försök")
 
 while True:
     number = random.randint(1, 100)
